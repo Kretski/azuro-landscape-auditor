@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: AZURO Landscape Auditor — Pre-Solve Demo
 emoji: 🧭
@@ -26,3 +27,7 @@ enter directly, so nothing sensitive ever leaves your browser.
 Full methodology and validation: [DOI 10.5281/zenodo.21941962](https://doi.org/10.5281/zenodo.21941962)
 
 Contact: Dimitar Kretski · ORCID [0000-0001-5108-2243](https://orcid.org/0000-0001-5108-2243)
+=======
+# azuro-landscape-auditor
+Pre-solve risk indicators for QUBO/Ising optimization — HF Space demo companion to the AZURO Landscape Auditor (Zenodo DOI 10.5281/zenodo.21941962)
+>>>>>>> d10f2c386219cfad4a37a9e2b58dfb3d49cf69a4
